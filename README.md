@@ -1,2 +1,2 @@
 # CSGO-Skin-Price-Checker
-CSGO Skin Price Checker: A Python script utilizing Selenium and Plyer to automate the tracking of Counter-Strike: Global Offensive in-game item prices.
+CSGO Skin Price Checker: A Python script utilizing Selenium and Plyer to automate the tracking of Counter-Strike: Global Offensive (CS:GO) in-game item prices. This tool interacts with Steam Community Market and CSGOSkins.gg to compare prices, notifying users when the desired item is available at a lower price on an alternative site. The script supports user input for item details, conditions, and desired prices, with the option to run multiple loops at specified intervals for continuous monitoring.
